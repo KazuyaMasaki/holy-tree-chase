@@ -1,0 +1,8 @@
+{
+  "defaultTrack": "holy-tree-run",
+  "tracks": [
+    { "id": "holy-tree-run", "label": "Holy Tree Run", "file": "Holy Tree Run.mp3", "volume": 0.15 },
+    { "id": "golden-spiral", "label": "Golden Spiral", "file": "Golden Spiral.mp3", "volume": 0.15 },
+    { "id": "golden-toy-run", "label": "Golden Toy Run", "file": "Golden Toy Run.mp3", "volume": 0.15 }
+  ]
+}

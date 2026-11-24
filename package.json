@@ -1,0 +1,20 @@
+{
+  "name": "holy-tree-chase",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "聖夜の3D巨大クリスマスツリー・マーブルラン抽選ミニゲーム（GitHub Pages対応）",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "serve": "node scripts/serve.mjs",
+    "test": "node --test tests/*.test.mjs",
+    "check": "npm run test && npm run build"
+  },
+  "dependencies": {
+    "three": "0.180.0"
+  },
+  "devDependencies": {
+    "esbuild": "0.25.9",
+    "playwright": "1.55.0"
+  }
+}
